@@ -131,4 +131,3 @@ if __name__ == '__main__':
         _plaguebearer()
         _vanish()
 
-I want to make the scrip gives me the decryption code after he encrypt the specific folder. Then give me a Script that decrypt that folder
